@@ -1,0 +1,468 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D0883DCF17D7A57F00F613FA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0883DCE17D7A57F00F613FA /* Cocoa.framework */; };
+		D0883DD917D7A57F00F613FA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D0883DD717D7A57F00F613FA /* InfoPlist.strings */; };
+		D0883DDB17D7A57F00F613FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D0883DDA17D7A57F00F613FA /* main.m */; };
+		D0883DDF17D7A57F00F613FA /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = D0883DDD17D7A57F00F613FA /* Credits.rtf */; };
+		D0883DE217D7A57F00F613FA /* PKRAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D0883DE117D7A57F00F613FA /* PKRAppDelegate.m */; };
+		D0883DE517D7A57F00F613FA /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0883DE317D7A57F00F613FA /* MainMenu.xib */; };
+		D0883DED17D7A58000F613FA /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0883DEC17D7A58000F613FA /* SenTestingKit.framework */; };
+		D0883DEE17D7A58000F613FA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0883DCE17D7A57F00F613FA /* Cocoa.framework */; };
+		D0883DF617D7A58000F613FA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D0883DF417D7A58000F613FA /* InfoPlist.strings */; };
+		D0883DF917D7A58000F613FA /* Hidde_SaysTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0883DF817D7A58000F613FA /* Hidde_SaysTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D0883DEF17D7A58000F613FA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D0883DC317D7A57F00F613FA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D0883DCA17D7A57F00F613FA;
+			remoteInfo = "Hidde Says";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D0883DCB17D7A57F00F613FA /* Hidde Says.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hidde Says.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0883DCE17D7A57F00F613FA /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		D0883DD117D7A57F00F613FA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		D0883DD217D7A57F00F613FA /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		D0883DD317D7A57F00F613FA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		D0883DD617D7A57F00F613FA /* Hidde Says-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Hidde Says-Info.plist"; sourceTree = "<group>"; };
+		D0883DD817D7A57F00F613FA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D0883DDA17D7A57F00F613FA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D0883DDC17D7A57F00F613FA /* Hidde Says-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Hidde Says-Prefix.pch"; sourceTree = "<group>"; };
+		D0883DDE17D7A57F00F613FA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		D0883DE017D7A57F00F613FA /* PKRAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PKRAppDelegate.h; sourceTree = "<group>"; };
+		D0883DE117D7A57F00F613FA /* PKRAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PKRAppDelegate.m; sourceTree = "<group>"; };
+		D0883DE417D7A57F00F613FA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		D0883DEB17D7A58000F613FA /* Hidde SaysTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hidde SaysTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0883DEC17D7A58000F613FA /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		D0883DF317D7A58000F613FA /* Hidde SaysTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Hidde SaysTests-Info.plist"; sourceTree = "<group>"; };
+		D0883DF517D7A58000F613FA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D0883DF717D7A58000F613FA /* Hidde_SaysTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hidde_SaysTests.h; sourceTree = "<group>"; };
+		D0883DF817D7A58000F613FA /* Hidde_SaysTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Hidde_SaysTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D0883DC817D7A57F00F613FA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0883DCF17D7A57F00F613FA /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0883DE717D7A58000F613FA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0883DED17D7A58000F613FA /* SenTestingKit.framework in Frameworks */,
+				D0883DEE17D7A58000F613FA /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D0883DC217D7A57F00F613FA = {
+			isa = PBXGroup;
+			children = (
+				D0883DD417D7A57F00F613FA /* Hidde Says */,
+				D0883DF117D7A58000F613FA /* Hidde SaysTests */,
+				D0883DCD17D7A57F00F613FA /* Frameworks */,
+				D0883DCC17D7A57F00F613FA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D0883DCC17D7A57F00F613FA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D0883DCB17D7A57F00F613FA /* Hidde Says.app */,
+				D0883DEB17D7A58000F613FA /* Hidde SaysTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D0883DCD17D7A57F00F613FA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D0883DCE17D7A57F00F613FA /* Cocoa.framework */,
+				D0883DEC17D7A58000F613FA /* SenTestingKit.framework */,
+				D0883DD017D7A57F00F613FA /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D0883DD017D7A57F00F613FA /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D0883DD117D7A57F00F613FA /* AppKit.framework */,
+				D0883DD217D7A57F00F613FA /* CoreData.framework */,
+				D0883DD317D7A57F00F613FA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		D0883DD417D7A57F00F613FA /* Hidde Says */ = {
+			isa = PBXGroup;
+			children = (
+				D0883DE017D7A57F00F613FA /* PKRAppDelegate.h */,
+				D0883DE117D7A57F00F613FA /* PKRAppDelegate.m */,
+				D0883DE317D7A57F00F613FA /* MainMenu.xib */,
+				D0883DD517D7A57F00F613FA /* Supporting Files */,
+			);
+			path = "Hidde Says";
+			sourceTree = "<group>";
+		};
+		D0883DD517D7A57F00F613FA /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D0883DD617D7A57F00F613FA /* Hidde Says-Info.plist */,
+				D0883DD717D7A57F00F613FA /* InfoPlist.strings */,
+				D0883DDA17D7A57F00F613FA /* main.m */,
+				D0883DDC17D7A57F00F613FA /* Hidde Says-Prefix.pch */,
+				D0883DDD17D7A57F00F613FA /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D0883DF117D7A58000F613FA /* Hidde SaysTests */ = {
+			isa = PBXGroup;
+			children = (
+				D0883DF717D7A58000F613FA /* Hidde_SaysTests.h */,
+				D0883DF817D7A58000F613FA /* Hidde_SaysTests.m */,
+				D0883DF217D7A58000F613FA /* Supporting Files */,
+			);
+			path = "Hidde SaysTests";
+			sourceTree = "<group>";
+		};
+		D0883DF217D7A58000F613FA /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D0883DF317D7A58000F613FA /* Hidde SaysTests-Info.plist */,
+				D0883DF417D7A58000F613FA /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D0883DCA17D7A57F00F613FA /* Hidde Says */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0883DFC17D7A58000F613FA /* Build configuration list for PBXNativeTarget "Hidde Says" */;
+			buildPhases = (
+				D0883DC717D7A57F00F613FA /* Sources */,
+				D0883DC817D7A57F00F613FA /* Frameworks */,
+				D0883DC917D7A57F00F613FA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Hidde Says";
+			productName = "Hidde Says";
+			productReference = D0883DCB17D7A57F00F613FA /* Hidde Says.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D0883DEA17D7A58000F613FA /* Hidde SaysTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0883DFF17D7A58000F613FA /* Build configuration list for PBXNativeTarget "Hidde SaysTests" */;
+			buildPhases = (
+				D0883DE617D7A58000F613FA /* Sources */,
+				D0883DE717D7A58000F613FA /* Frameworks */,
+				D0883DE817D7A58000F613FA /* Resources */,
+				D0883DE917D7A58000F613FA /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D0883DF017D7A58000F613FA /* PBXTargetDependency */,
+			);
+			name = "Hidde SaysTests";
+			productName = "Hidde SaysTests";
+			productReference = D0883DEB17D7A58000F613FA /* Hidde SaysTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D0883DC317D7A57F00F613FA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = PKR;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Peter Kruithof";
+			};
+			buildConfigurationList = D0883DC617D7A57F00F613FA /* Build configuration list for PBXProject "Hidde Says" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D0883DC217D7A57F00F613FA;
+			productRefGroup = D0883DCC17D7A57F00F613FA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D0883DCA17D7A57F00F613FA /* Hidde Says */,
+				D0883DEA17D7A58000F613FA /* Hidde SaysTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D0883DC917D7A57F00F613FA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0883DD917D7A57F00F613FA /* InfoPlist.strings in Resources */,
+				D0883DDF17D7A57F00F613FA /* Credits.rtf in Resources */,
+				D0883DE517D7A57F00F613FA /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0883DE817D7A58000F613FA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0883DF617D7A58000F613FA /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		D0883DE917D7A58000F613FA /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D0883DC717D7A57F00F613FA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0883DDB17D7A57F00F613FA /* main.m in Sources */,
+				D0883DE217D7A57F00F613FA /* PKRAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0883DE617D7A58000F613FA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0883DF917D7A58000F613FA /* Hidde_SaysTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D0883DF017D7A58000F613FA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D0883DCA17D7A57F00F613FA /* Hidde Says */;
+			targetProxy = D0883DEF17D7A58000F613FA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		D0883DD717D7A57F00F613FA /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D0883DD817D7A57F00F613FA /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		D0883DDD17D7A57F00F613FA /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D0883DDE17D7A57F00F613FA /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		D0883DE317D7A57F00F613FA /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D0883DE417D7A57F00F613FA /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		D0883DF417D7A58000F613FA /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D0883DF517D7A58000F613FA /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D0883DFA17D7A58000F613FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D0883DFB17D7A58000F613FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D0883DFD17D7A58000F613FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Hidde Says/Hidde Says-Prefix.pch";
+				INFOPLIST_FILE = "Hidde Says/Hidde Says-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		D0883DFE17D7A58000F613FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Hidde Says/Hidde Says-Prefix.pch";
+				INFOPLIST_FILE = "Hidde Says/Hidde Says-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		D0883E0017D7A58000F613FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Hidde Says.app/Contents/MacOS/Hidde Says";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Hidde Says/Hidde Says-Prefix.pch";
+				INFOPLIST_FILE = "Hidde SaysTests/Hidde SaysTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		D0883E0117D7A58000F613FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Hidde Says.app/Contents/MacOS/Hidde Says";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Hidde Says/Hidde Says-Prefix.pch";
+				INFOPLIST_FILE = "Hidde SaysTests/Hidde SaysTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D0883DC617D7A57F00F613FA /* Build configuration list for PBXProject "Hidde Says" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0883DFA17D7A58000F613FA /* Debug */,
+				D0883DFB17D7A58000F613FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D0883DFC17D7A58000F613FA /* Build configuration list for PBXNativeTarget "Hidde Says" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0883DFD17D7A58000F613FA /* Debug */,
+				D0883DFE17D7A58000F613FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		D0883DFF17D7A58000F613FA /* Build configuration list for PBXNativeTarget "Hidde SaysTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0883E0017D7A58000F613FA /* Debug */,
+				D0883E0117D7A58000F613FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D0883DC317D7A57F00F613FA /* Project object */;
+}
