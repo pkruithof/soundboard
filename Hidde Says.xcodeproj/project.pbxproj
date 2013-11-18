@@ -7,29 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D055B34918057ED400B3CDAF /* 20th_century_fox.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D055B34818057ED400B3CDAF /* 20th_century_fox.mp3 */; };
 		D0883DCF17D7A57F00F613FA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0883DCE17D7A57F00F613FA /* Cocoa.framework */; };
 		D0883DD917D7A57F00F613FA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D0883DD717D7A57F00F613FA /* InfoPlist.strings */; };
 		D0883DDB17D7A57F00F613FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D0883DDA17D7A57F00F613FA /* main.m */; };
 		D0883DDF17D7A57F00F613FA /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = D0883DDD17D7A57F00F613FA /* Credits.rtf */; };
 		D0883DE217D7A57F00F613FA /* PKRAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D0883DE117D7A57F00F613FA /* PKRAppDelegate.m */; };
 		D0883DE517D7A57F00F613FA /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0883DE317D7A57F00F613FA /* MainMenu.xib */; };
-		D0883DED17D7A58000F613FA /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0883DEC17D7A58000F613FA /* SenTestingKit.framework */; };
-		D0883DEE17D7A58000F613FA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0883DCE17D7A57F00F613FA /* Cocoa.framework */; };
-		D0883DF617D7A58000F613FA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D0883DF417D7A58000F613FA /* InfoPlist.strings */; };
-		D0883DF917D7A58000F613FA /* Hidde_SaysTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0883DF817D7A58000F613FA /* Hidde_SaysTests.m */; };
+		D0883E0317D7B31200F613FA /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0883E0217D7B31200F613FA /* AVFoundation.framework */; };
+		D0883E0517D7B62100F613FA /* opgepast.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0883E0417D7B62100F613FA /* opgepast.mp3 */; };
+		D0D4943D17DA5F7E00F84243 /* achteruit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943017DA5F7E00F84243 /* achteruit.mp3 */; };
+		D0D4943E17DA5F7E00F84243 /* allernieuwstespel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943117DA5F7E00F84243 /* allernieuwstespel.mp3 */; };
+		D0D4943F17DA5F7E00F84243 /* attention.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943217DA5F7E00F84243 /* attention.mp3 */; };
+		D0D4944017DA5F7E00F84243 /* go.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943317DA5F7E00F84243 /* go.mp3 */; };
+		D0D4944117DA5F7E00F84243 /* i feel good.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943417DA5F7E00F84243 /* i feel good.mp3 */; };
+		D0D4944217DA5F7E00F84243 /* maak hier uw keuze.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943517DA5F7E00F84243 /* maak hier uw keuze.mp3 */; };
+		D0D4944317DA5F7E00F84243 /* mexicaans.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943617DA5F7E00F84243 /* mexicaans.mp3 */; };
+		D0D4944417DA5F7E00F84243 /* penningen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943717DA5F7E00F84243 /* penningen.mp3 */; };
+		D0D4944517DA5F7E00F84243 /* stoomboot.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943817DA5F7E00F84243 /* stoomboot.mp3 */; };
+		D0D4944617DA5F7E00F84243 /* turbo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943917DA5F7E00F84243 /* turbo.mp3 */; };
+		D0D4944717DA5F7E00F84243 /* tuut tuut.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943A17DA5F7E00F84243 /* tuut tuut.mp3 */; };
+		D0D4944817DA5F7E00F84243 /* winnaar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943B17DA5F7E00F84243 /* winnaar.mp3 */; };
+		D0D4944917DA5F7E00F84243 /* yiehoe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943C17DA5F7E00F84243 /* yiehoe.mp3 */; };
+		D0F2DC7617D860BF00BF9E92 /* icon.iconset in Resources */ = {isa = PBXBuildFile; fileRef = D0F2DC7517D860BF00BF9E92 /* icon.iconset */; };
+		D0F2DC7E17D869A200BF9E92 /* statusbar_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D0F2DC7D17D869A200BF9E92 /* statusbar_icon.png */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		D0883DEF17D7A58000F613FA /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D0883DC317D7A57F00F613FA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = D0883DCA17D7A57F00F613FA;
-			remoteInfo = "Hidde Says";
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
+		D055B34818057ED400B3CDAF /* 20th_century_fox.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 20th_century_fox.mp3; sourceTree = "<group>"; };
 		D0883DCB17D7A57F00F613FA /* Hidde Says.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hidde Says.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0883DCE17D7A57F00F613FA /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		D0883DD117D7A57F00F613FA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -43,12 +48,24 @@
 		D0883DE017D7A57F00F613FA /* PKRAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PKRAppDelegate.h; sourceTree = "<group>"; };
 		D0883DE117D7A57F00F613FA /* PKRAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PKRAppDelegate.m; sourceTree = "<group>"; };
 		D0883DE417D7A57F00F613FA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		D0883DEB17D7A58000F613FA /* Hidde SaysTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hidde SaysTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0883DEC17D7A58000F613FA /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		D0883DF317D7A58000F613FA /* Hidde SaysTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Hidde SaysTests-Info.plist"; sourceTree = "<group>"; };
-		D0883DF517D7A58000F613FA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D0883DF717D7A58000F613FA /* Hidde_SaysTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hidde_SaysTests.h; sourceTree = "<group>"; };
-		D0883DF817D7A58000F613FA /* Hidde_SaysTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Hidde_SaysTests.m; sourceTree = "<group>"; };
+		D0883E0217D7B31200F613FA /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		D0883E0417D7B62100F613FA /* opgepast.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = opgepast.mp3; sourceTree = "<group>"; };
+		D0D4943017DA5F7E00F84243 /* achteruit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = achteruit.mp3; sourceTree = "<group>"; };
+		D0D4943117DA5F7E00F84243 /* allernieuwstespel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = allernieuwstespel.mp3; sourceTree = "<group>"; };
+		D0D4943217DA5F7E00F84243 /* attention.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = attention.mp3; sourceTree = "<group>"; };
+		D0D4943317DA5F7E00F84243 /* go.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = go.mp3; sourceTree = "<group>"; };
+		D0D4943417DA5F7E00F84243 /* i feel good.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "i feel good.mp3"; sourceTree = "<group>"; };
+		D0D4943517DA5F7E00F84243 /* maak hier uw keuze.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "maak hier uw keuze.mp3"; sourceTree = "<group>"; };
+		D0D4943617DA5F7E00F84243 /* mexicaans.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mexicaans.mp3; sourceTree = "<group>"; };
+		D0D4943717DA5F7E00F84243 /* penningen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = penningen.mp3; sourceTree = "<group>"; };
+		D0D4943817DA5F7E00F84243 /* stoomboot.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = stoomboot.mp3; sourceTree = "<group>"; };
+		D0D4943917DA5F7E00F84243 /* turbo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = turbo.mp3; sourceTree = "<group>"; };
+		D0D4943A17DA5F7E00F84243 /* tuut tuut.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tuut tuut.mp3"; sourceTree = "<group>"; };
+		D0D4943B17DA5F7E00F84243 /* winnaar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = winnaar.mp3; sourceTree = "<group>"; };
+		D0D4943C17DA5F7E00F84243 /* yiehoe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yiehoe.mp3; sourceTree = "<group>"; };
+		D0F2DC7517D860BF00BF9E92 /* icon.iconset */ = {isa = PBXFileReference; lastKnownFileType = folder.iconset; path = icon.iconset; sourceTree = "<group>"; };
+		D0F2DC7D17D869A200BF9E92 /* statusbar_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = statusbar_icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,16 +73,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0883E0317D7B31200F613FA /* AVFoundation.framework in Frameworks */,
 				D0883DCF17D7A57F00F613FA /* Cocoa.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D0883DE717D7A58000F613FA /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D0883DED17D7A58000F613FA /* SenTestingKit.framework in Frameworks */,
-				D0883DEE17D7A58000F613FA /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,8 +84,9 @@
 		D0883DC217D7A57F00F613FA = {
 			isa = PBXGroup;
 			children = (
-				D0883DD417D7A57F00F613FA /* Hidde Says */,
-				D0883DF117D7A58000F613FA /* Hidde SaysTests */,
+				D0883E0217D7B31200F613FA /* AVFoundation.framework */,
+				D0883DD417D7A57F00F613FA /* Source */,
+				D0F2DC8117D886C400BF9E92 /* UI */,
 				D0883DCD17D7A57F00F613FA /* Frameworks */,
 				D0883DCC17D7A57F00F613FA /* Products */,
 			);
@@ -86,7 +96,6 @@
 			isa = PBXGroup;
 			children = (
 				D0883DCB17D7A57F00F613FA /* Hidde Says.app */,
-				D0883DEB17D7A58000F613FA /* Hidde SaysTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -111,20 +120,23 @@
 			name = "Other Frameworks";
 			sourceTree = "<group>";
 		};
-		D0883DD417D7A57F00F613FA /* Hidde Says */ = {
+		D0883DD417D7A57F00F613FA /* Source */ = {
 			isa = PBXGroup;
 			children = (
 				D0883DE017D7A57F00F613FA /* PKRAppDelegate.h */,
 				D0883DE117D7A57F00F613FA /* PKRAppDelegate.m */,
-				D0883DE317D7A57F00F613FA /* MainMenu.xib */,
+				D0883E0617D7B62800F613FA /* Resources */,
 				D0883DD517D7A57F00F613FA /* Supporting Files */,
 			);
+			name = Source;
 			path = "Hidde Says";
 			sourceTree = "<group>";
 		};
 		D0883DD517D7A57F00F613FA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D0F2DC7D17D869A200BF9E92 /* statusbar_icon.png */,
+				D0F2DC7517D860BF00BF9E92 /* icon.iconset */,
 				D0883DD617D7A57F00F613FA /* Hidde Says-Info.plist */,
 				D0883DD717D7A57F00F613FA /* InfoPlist.strings */,
 				D0883DDA17D7A57F00F613FA /* main.m */,
@@ -134,23 +146,35 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		D0883DF117D7A58000F613FA /* Hidde SaysTests */ = {
+		D0883E0617D7B62800F613FA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				D0883DF717D7A58000F613FA /* Hidde_SaysTests.h */,
-				D0883DF817D7A58000F613FA /* Hidde_SaysTests.m */,
-				D0883DF217D7A58000F613FA /* Supporting Files */,
+				D0D4943017DA5F7E00F84243 /* achteruit.mp3 */,
+				D0D4943117DA5F7E00F84243 /* allernieuwstespel.mp3 */,
+				D0D4943217DA5F7E00F84243 /* attention.mp3 */,
+				D055B34818057ED400B3CDAF /* 20th_century_fox.mp3 */,
+				D0D4943317DA5F7E00F84243 /* go.mp3 */,
+				D0D4943417DA5F7E00F84243 /* i feel good.mp3 */,
+				D0D4943517DA5F7E00F84243 /* maak hier uw keuze.mp3 */,
+				D0D4943617DA5F7E00F84243 /* mexicaans.mp3 */,
+				D0883E0417D7B62100F613FA /* opgepast.mp3 */,
+				D0D4943717DA5F7E00F84243 /* penningen.mp3 */,
+				D0D4943817DA5F7E00F84243 /* stoomboot.mp3 */,
+				D0D4943917DA5F7E00F84243 /* turbo.mp3 */,
+				D0D4943A17DA5F7E00F84243 /* tuut tuut.mp3 */,
+				D0D4943B17DA5F7E00F84243 /* winnaar.mp3 */,
+				D0D4943C17DA5F7E00F84243 /* yiehoe.mp3 */,
 			);
-			path = "Hidde SaysTests";
+			name = Resources;
 			sourceTree = "<group>";
 		};
-		D0883DF217D7A58000F613FA /* Supporting Files */ = {
+		D0F2DC8117D886C400BF9E92 /* UI */ = {
 			isa = PBXGroup;
 			children = (
-				D0883DF317D7A58000F613FA /* Hidde SaysTests-Info.plist */,
-				D0883DF417D7A58000F613FA /* InfoPlist.strings */,
+				D0883DE317D7A57F00F613FA /* MainMenu.xib */,
 			);
-			name = "Supporting Files";
+			name = UI;
+			path = "Hidde Says";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -172,25 +196,6 @@
 			productName = "Hidde Says";
 			productReference = D0883DCB17D7A57F00F613FA /* Hidde Says.app */;
 			productType = "com.apple.product-type.application";
-		};
-		D0883DEA17D7A58000F613FA /* Hidde SaysTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D0883DFF17D7A58000F613FA /* Build configuration list for PBXNativeTarget "Hidde SaysTests" */;
-			buildPhases = (
-				D0883DE617D7A58000F613FA /* Sources */,
-				D0883DE717D7A58000F613FA /* Frameworks */,
-				D0883DE817D7A58000F613FA /* Resources */,
-				D0883DE917D7A58000F613FA /* ShellScript */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				D0883DF017D7A58000F613FA /* PBXTargetDependency */,
-			);
-			name = "Hidde SaysTests";
-			productName = "Hidde SaysTests";
-			productReference = D0883DEB17D7A58000F613FA /* Hidde SaysTests.octest */;
-			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
 
@@ -215,7 +220,6 @@
 			projectRoot = "";
 			targets = (
 				D0883DCA17D7A57F00F613FA /* Hidde Says */,
-				D0883DEA17D7A58000F613FA /* Hidde SaysTests */,
 			);
 		};
 /* End PBXProject section */
@@ -228,34 +232,27 @@
 				D0883DD917D7A57F00F613FA /* InfoPlist.strings in Resources */,
 				D0883DDF17D7A57F00F613FA /* Credits.rtf in Resources */,
 				D0883DE517D7A57F00F613FA /* MainMenu.xib in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D0883DE817D7A58000F613FA /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D0883DF617D7A58000F613FA /* InfoPlist.strings in Resources */,
+				D0883E0517D7B62100F613FA /* opgepast.mp3 in Resources */,
+				D0F2DC7617D860BF00BF9E92 /* icon.iconset in Resources */,
+				D0F2DC7E17D869A200BF9E92 /* statusbar_icon.png in Resources */,
+				D0D4943D17DA5F7E00F84243 /* achteruit.mp3 in Resources */,
+				D0D4943E17DA5F7E00F84243 /* allernieuwstespel.mp3 in Resources */,
+				D0D4943F17DA5F7E00F84243 /* attention.mp3 in Resources */,
+				D055B34918057ED400B3CDAF /* 20th_century_fox.mp3 in Resources */,
+				D0D4944017DA5F7E00F84243 /* go.mp3 in Resources */,
+				D0D4944117DA5F7E00F84243 /* i feel good.mp3 in Resources */,
+				D0D4944217DA5F7E00F84243 /* maak hier uw keuze.mp3 in Resources */,
+				D0D4944317DA5F7E00F84243 /* mexicaans.mp3 in Resources */,
+				D0D4944417DA5F7E00F84243 /* penningen.mp3 in Resources */,
+				D0D4944517DA5F7E00F84243 /* stoomboot.mp3 in Resources */,
+				D0D4944617DA5F7E00F84243 /* turbo.mp3 in Resources */,
+				D0D4944717DA5F7E00F84243 /* tuut tuut.mp3 in Resources */,
+				D0D4944817DA5F7E00F84243 /* winnaar.mp3 in Resources */,
+				D0D4944917DA5F7E00F84243 /* yiehoe.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		D0883DE917D7A58000F613FA /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		D0883DC717D7A57F00F613FA /* Sources */ = {
@@ -267,23 +264,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D0883DE617D7A58000F613FA /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D0883DF917D7A58000F613FA /* Hidde_SaysTests.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		D0883DF017D7A58000F613FA /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = D0883DCA17D7A57F00F613FA /* Hidde Says */;
-			targetProxy = D0883DEF17D7A58000F613FA /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		D0883DD717D7A57F00F613FA /* InfoPlist.strings */ = {
@@ -308,14 +289,6 @@
 				D0883DE417D7A57F00F613FA /* en */,
 			);
 			name = MainMenu.xib;
-			sourceTree = "<group>";
-		};
-		D0883DF417D7A58000F613FA /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D0883DF517D7A58000F613FA /* en */,
-			);
-			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -404,36 +377,6 @@
 			};
 			name = Release;
 		};
-		D0883E0017D7A58000F613FA /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Hidde Says.app/Contents/MacOS/Hidde Says";
-				COMBINE_HIDPI_IMAGES = YES;
-				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Hidde Says/Hidde Says-Prefix.pch";
-				INFOPLIST_FILE = "Hidde SaysTests/Hidde SaysTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
-				WRAPPER_EXTENSION = octest;
-			};
-			name = Debug;
-		};
-		D0883E0117D7A58000F613FA /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Hidde Says.app/Contents/MacOS/Hidde Says";
-				COMBINE_HIDPI_IMAGES = YES;
-				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Hidde Says/Hidde Says-Prefix.pch";
-				INFOPLIST_FILE = "Hidde SaysTests/Hidde SaysTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
-				WRAPPER_EXTENSION = octest;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -453,14 +396,7 @@
 				D0883DFE17D7A58000F613FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-		};
-		D0883DFF17D7A58000F613FA /* Build configuration list for PBXNativeTarget "Hidde SaysTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D0883E0017D7A58000F613FA /* Debug */,
-				D0883E0117D7A58000F613FA /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

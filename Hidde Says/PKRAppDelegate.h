@@ -10,6 +10,11 @@
 
 @interface PKRAppDelegate : NSObject <NSApplicationDelegate>
 
-@property (assign) IBOutlet NSWindow *window;
+@property (strong) IBOutlet NSViewController *popoverController;
+@property (strong) IBOutlet NSPopover *popover;
+@property (strong) NSStatusItem *statusItem;
+@property (strong) NSButton *statusItemButton;
+
+- (void)clickStatusBar:(id)sender;
 
 @end
