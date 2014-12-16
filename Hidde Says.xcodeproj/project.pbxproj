@@ -55,6 +55,7 @@
 		D0C130521A162CF6009E9B68 /* zero tolerance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0C1304F1A162CF6009E9B68 /* zero tolerance.mp3 */; };
 		D0C130531A162CF6009E9B68 /* focus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0C130501A162CF6009E9B68 /* focus.mp3 */; };
 		D0C130541A162CF6009E9B68 /* vraag.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0C130511A162CF6009E9B68 /* vraag.mp3 */; };
+		D0D1950B1A405D26008341B1 /* lekkergewerkt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D1950A1A405D26008341B1 /* lekkergewerkt.mp3 */; };
 		D0D4943D17DA5F7E00F84243 /* achteruit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943017DA5F7E00F84243 /* achteruit.mp3 */; };
 		D0D4943E17DA5F7E00F84243 /* allernieuwstespel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943117DA5F7E00F84243 /* allernieuwstespel.mp3 */; };
 		D0D4943F17DA5F7E00F84243 /* attention.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0D4943217DA5F7E00F84243 /* attention.mp3 */; };
@@ -129,6 +130,7 @@
 		D0C1304F1A162CF6009E9B68 /* zero tolerance.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zero tolerance.mp3"; sourceTree = "<group>"; };
 		D0C130501A162CF6009E9B68 /* focus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = focus.mp3; sourceTree = "<group>"; };
 		D0C130511A162CF6009E9B68 /* vraag.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = vraag.mp3; sourceTree = "<group>"; };
+		D0D1950A1A405D26008341B1 /* lekkergewerkt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lekkergewerkt.mp3; sourceTree = "<group>"; };
 		D0D4943017DA5F7E00F84243 /* achteruit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = achteruit.mp3; sourceTree = "<group>"; };
 		D0D4943117DA5F7E00F84243 /* allernieuwstespel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = allernieuwstespel.mp3; sourceTree = "<group>"; };
 		D0D4943217DA5F7E00F84243 /* attention.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = attention.mp3; sourceTree = "<group>"; };
@@ -259,6 +261,7 @@
 		D0C1301A1A162B17009E9B68 /* Various */ = {
 			isa = PBXGroup;
 			children = (
+				D0D1950A1A405D26008341B1 /* lekkergewerkt.mp3 */,
 				D0C12FFD1A161FF5009E9B68 /* Rimshot.mp3 */,
 				D0C12FFE1A161FF5009E9B68 /* Needle.mp3 */,
 				D0C12FFF1A161FF5009E9B68 /* Are you ready.mp3 */,
@@ -436,6 +439,7 @@
 				D0D4944817DA5F7E00F84243 /* winnaar.mp3 in Resources */,
 				D0C1303A1A162B2E009E9B68 /* kan beter.mp3 in Resources */,
 				D0C130441A162B2E009E9B68 /* antwoord nee.mp3 in Resources */,
+				D0D1950B1A405D26008341B1 /* lekkergewerkt.mp3 in Resources */,
 				D0D4944917DA5F7E00F84243 /* yiehoe.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
