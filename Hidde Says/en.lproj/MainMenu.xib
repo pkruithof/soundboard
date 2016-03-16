@@ -445,16 +445,8 @@
                         <font key="font" metaFont="system"/>
                     </buttonCell>
                 </button>
-                <button verticalHuggingPriority="750" id="iRn-aQ-RSo">
-                    <rect key="frame" x="338" y="582" width="166" height="32"/>
-                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="push" title="40 degrees" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="40degrees" inset="2" id="rKK-zw-jnb">
-                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                        <font key="font" metaFont="system"/>
-                    </buttonCell>
-                </button>
                 <button verticalHuggingPriority="750" id="Jxm-sf-og0">
-                    <rect key="frame" x="338" y="549" width="166" height="32"/>
+                    <rect key="frame" x="338" y="582" width="166" height="32"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <buttonCell key="cell" type="push" title="Cliniclowns" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="cliniclowns" inset="2" id="qQA-lk-5Eo">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
@@ -462,7 +454,7 @@
                     </buttonCell>
                 </button>
                 <button verticalHuggingPriority="750" id="skw-8J-XMd">
-                    <rect key="frame" x="338" y="516" width="166" height="32"/>
+                    <rect key="frame" x="338" y="549" width="166" height="32"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <buttonCell key="cell" type="push" title="Niet vrolijk" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="daarwordiknietvrolijkvan" inset="2" id="3N3-Uk-fVd">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
@@ -470,7 +462,7 @@
                     </buttonCell>
                 </button>
                 <button verticalHuggingPriority="750" id="JYP-6t-uMI">
-                    <rect key="frame" x="338" y="483" width="166" height="32"/>
+                    <rect key="frame" x="338" y="516" width="166" height="32"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <buttonCell key="cell" type="push" title="Don't touch me" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="donttouchmehe" inset="2" id="P3P-fM-Oa4">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
@@ -478,7 +470,7 @@
                     </buttonCell>
                 </button>
                 <button verticalHuggingPriority="750" id="boH-gx-yaO">
-                    <rect key="frame" x="338" y="450" width="166" height="32"/>
+                    <rect key="frame" x="338" y="483" width="166" height="32"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <buttonCell key="cell" type="push" title="Koekaratsja" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="koekeratsja" inset="2" id="RnC-cW-czH">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
@@ -486,7 +478,7 @@
                     </buttonCell>
                 </button>
                 <button verticalHuggingPriority="750" id="Owo-uf-zyJ">
-                    <rect key="frame" x="338" y="417" width="166" height="32"/>
+                    <rect key="frame" x="338" y="450" width="166" height="32"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <buttonCell key="cell" type="push" title="Speak you English" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="speakyouenglish" inset="2" id="qzT-lV-FGo">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
@@ -494,9 +486,114 @@
                     </buttonCell>
                 </button>
                 <button verticalHuggingPriority="750" id="rkF-TL-n0Z">
-                    <rect key="frame" x="338" y="384" width="166" height="32"/>
+                    <rect key="frame" x="338" y="417" width="166" height="32"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <buttonCell key="cell" type="push" title="Why is he out" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="whyisheoutwhy" inset="2" id="jI2-Cx-p41">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <textField verticalHuggingPriority="750" id="i9d-bq-lO0">
+                    <rect key="frame" x="368" y="391" width="107" height="17"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="center" title="John" id="gaf-eZ-jws">
+                        <font key="font" metaFont="system"/>
+                        <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <button verticalHuggingPriority="750" id="MzO-jQ-biF">
+                    <rect key="frame" x="338" y="351" width="166" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="HE!" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - HE!" inset="2" id="iEg-hi-VuW">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <button verticalHuggingPriority="750" id="gs7-bB-NCz">
+                    <rect key="frame" x="338" y="318" width="166" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Herrie staat hard" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - Herrie staat zo hard" inset="2" id="nsb-Yk-Orb">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <button verticalHuggingPriority="750" id="1vf-eY-1SJ">
+                    <rect key="frame" x="338" y="285" width="166" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Hij doet het weer" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - Hij doet het weer" inset="2" id="bdf-TJ-Fmc">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <button verticalHuggingPriority="750" id="Spz-Fo-we4">
+                    <rect key="frame" x="338" y="252" width="166" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Goeie vraag" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - Ja Goeie vraag eigenlijk" inset="2" id="WPf-Yi-cfC">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <button verticalHuggingPriority="750" id="ZhM-z3-fpq">
+                    <rect key="frame" x="338" y="219" width="166" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Ehh jaa" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - Ehh jaa" inset="2" id="3nW-dM-T5R">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <button verticalHuggingPriority="750" id="Ghr-R5-TCf">
+                    <rect key="frame" x="338" y="186" width="166" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Handen in haar" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - Man zit met hand in haar" inset="2" id="5pc-9m-MDh">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <button verticalHuggingPriority="750" id="wGA-IP-rxp">
+                    <rect key="frame" x="338" y="153" width="166" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Was er al bang voor" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - Was er al bang voor" inset="2" id="nO1-mA-FuW">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <button verticalHuggingPriority="750" id="OSM-VA-STv">
+                    <rect key="frame" x="338" y="120" width="166" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Nee niet echt" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - Nee niet echt" inset="2" id="HGc-ZI-oOq">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <button verticalHuggingPriority="750" id="EWI-O6-yST">
+                    <rect key="frame" x="338" y="87" width="82" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Ja?" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - Ja2" inset="2" id="oi0-q8-MyF">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <button verticalHuggingPriority="750" id="rcL-zG-7U2">
+                    <rect key="frame" x="422" y="87" width="82" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Ja!" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - Ja1" inset="2" id="Esa-tj-riM">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <button verticalHuggingPriority="750" id="Arz-rk-H3W">
+                    <rect key="frame" x="338" y="54" width="166" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Ja inderdaad" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - Ja inderdaad" inset="2" id="fPx-ea-T9J">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+                <button verticalHuggingPriority="750" id="ZBj-lq-6cZ">
+                    <rect key="frame" x="338" y="21" width="166" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Goedemorgen" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="John Bakker - Goedemorgen" inset="2" id="oW7-pP-tZS">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -507,11 +604,22 @@
     </objects>
     <resources>
         <sound name="20th_century_fox"/>
-        <sound name="40degrees"/>
         <sound name="Crickets"/>
         <sound name="Doe eens normaal (Maroc)"/>
         <sound name="HIJ IES GEK!"/>
         <sound name="Hey Peter"/>
+        <sound name="John Bakker - Ehh jaa"/>
+        <sound name="John Bakker - Goedemorgen"/>
+        <sound name="John Bakker - HE!"/>
+        <sound name="John Bakker - Herrie staat zo hard"/>
+        <sound name="John Bakker - Hij doet het weer"/>
+        <sound name="John Bakker - Ja Goeie vraag eigenlijk"/>
+        <sound name="John Bakker - Ja inderdaad"/>
+        <sound name="John Bakker - Ja1"/>
+        <sound name="John Bakker - Ja2"/>
+        <sound name="John Bakker - Man zit met hand in haar"/>
+        <sound name="John Bakker - Nee niet echt"/>
+        <sound name="John Bakker - Was er al bang voor"/>
         <sound name="Lachband"/>
         <sound name="Man man man"/>
         <sound name="Needle"/>
