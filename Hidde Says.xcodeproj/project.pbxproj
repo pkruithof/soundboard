@@ -35,6 +35,18 @@
 		88B8562D1B681704006AC8BD /* koekeratsja.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88B856261B681704006AC8BD /* koekeratsja.mp3 */; };
 		88B8562E1B681704006AC8BD /* speakyouenglish.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88B856271B681704006AC8BD /* speakyouenglish.mp3 */; };
 		88B8562F1B681704006AC8BD /* whyisheoutwhy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88B856281B681704006AC8BD /* whyisheoutwhy.mp3 */; };
+		D03156BB1C99FD9700B781B2 /* Gefeliciteerd he.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156BA1C99FD9700B781B2 /* Gefeliciteerd he.mp3 */; };
+		D03156BD1C99FE1B00B781B2 /* Ik vind helemaal mooi!!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156BC1C99FE1B00B781B2 /* Ik vind helemaal mooi!!.mp3 */; };
+		D03156C31C9A014800B781B2 /* serieus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156BE1C9A014800B781B2 /* serieus.mp3 */; };
+		D03156C41C9A014800B781B2 /* daarbij laten.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156BF1C9A014800B781B2 /* daarbij laten.mp3 */; };
+		D03156C51C9A014800B781B2 /* herhaling.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156C01C9A014800B781B2 /* herhaling.mp3 */; };
+		D03156C61C9A014800B781B2 /* een hek.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156C11C9A014800B781B2 /* een hek.mp3 */; };
+		D03156C71C9A014800B781B2 /* totale onzin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156C21C9A014800B781B2 /* totale onzin.mp3 */; };
+		D03156CD1C9A052C00B781B2 /* denk het niet.m4a in Resources */ = {isa = PBXBuildFile; fileRef = D03156C81C9A052C00B781B2 /* denk het niet.m4a */; };
+		D03156CE1C9A052C00B781B2 /* geintjenatuurlijk.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156C91C9A052C00B781B2 /* geintjenatuurlijk.mp3 */; };
+		D03156CF1C9A052C00B781B2 /* lekker he.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156CA1C9A052C00B781B2 /* lekker he.mp3 */; };
+		D03156D01C9A052C00B781B2 /* raarrrr.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156CB1C9A052C00B781B2 /* raarrrr.mp3 */; };
+		D03156D11C9A052C00B781B2 /* spannend muziekje.m4a in Resources */ = {isa = PBXBuildFile; fileRef = D03156CC1C9A052C00B781B2 /* spannend muziekje.m4a */; };
 		D055B34918057ED400B3CDAF /* 20th_century_fox.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D055B34818057ED400B3CDAF /* 20th_century_fox.mp3 */; };
 		D0883DCF17D7A57F00F613FA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0883DCE17D7A57F00F613FA /* Cocoa.framework */; };
 		D0883DD917D7A57F00F613FA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D0883DD717D7A57F00F613FA /* InfoPlist.strings */; };
@@ -130,6 +142,18 @@
 		88B856261B681704006AC8BD /* koekeratsja.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = koekeratsja.mp3; sourceTree = "<group>"; };
 		88B856271B681704006AC8BD /* speakyouenglish.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = speakyouenglish.mp3; sourceTree = "<group>"; };
 		88B856281B681704006AC8BD /* whyisheoutwhy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = whyisheoutwhy.mp3; sourceTree = "<group>"; };
+		D03156BA1C99FD9700B781B2 /* Gefeliciteerd he.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Gefeliciteerd he.mp3"; sourceTree = "<group>"; };
+		D03156BC1C99FE1B00B781B2 /* Ik vind helemaal mooi!!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ik vind helemaal mooi!!.mp3"; sourceTree = "<group>"; };
+		D03156BE1C9A014800B781B2 /* serieus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = serieus.mp3; sourceTree = "<group>"; };
+		D03156BF1C9A014800B781B2 /* daarbij laten.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "daarbij laten.mp3"; sourceTree = "<group>"; };
+		D03156C01C9A014800B781B2 /* herhaling.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = herhaling.mp3; sourceTree = "<group>"; };
+		D03156C11C9A014800B781B2 /* een hek.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "een hek.mp3"; sourceTree = "<group>"; };
+		D03156C21C9A014800B781B2 /* totale onzin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "totale onzin.mp3"; sourceTree = "<group>"; };
+		D03156C81C9A052C00B781B2 /* denk het niet.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "denk het niet.m4a"; sourceTree = "<group>"; };
+		D03156C91C9A052C00B781B2 /* geintjenatuurlijk.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = geintjenatuurlijk.mp3; sourceTree = "<group>"; };
+		D03156CA1C9A052C00B781B2 /* lekker he.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "lekker he.mp3"; sourceTree = "<group>"; };
+		D03156CB1C9A052C00B781B2 /* raarrrr.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = raarrrr.mp3; sourceTree = "<group>"; };
+		D03156CC1C9A052C00B781B2 /* spannend muziekje.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "spannend muziekje.m4a"; sourceTree = "<group>"; };
 		D055B34818057ED400B3CDAF /* 20th_century_fox.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 20th_century_fox.mp3; sourceTree = "<group>"; };
 		D0883DCB17D7A57F00F613FA /* Hidde Says.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hidde Says.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0883DCE17D7A57F00F613FA /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
@@ -352,6 +376,13 @@
 		D0C1301A1A162B17009E9B68 /* Various */ = {
 			isa = PBXGroup;
 			children = (
+				D03156C81C9A052C00B781B2 /* denk het niet.m4a */,
+				D03156C91C9A052C00B781B2 /* geintjenatuurlijk.mp3 */,
+				D03156CA1C9A052C00B781B2 /* lekker he.mp3 */,
+				D03156CB1C9A052C00B781B2 /* raarrrr.mp3 */,
+				D03156CC1C9A052C00B781B2 /* spannend muziekje.m4a */,
+				D03156BC1C99FE1B00B781B2 /* Ik vind helemaal mooi!!.mp3 */,
+				D03156BA1C99FD9700B781B2 /* Gefeliciteerd he.mp3 */,
 				D0D1950A1A405D26008341B1 /* lekkergewerkt.mp3 */,
 				D0C12FFD1A161FF5009E9B68 /* Rimshot.mp3 */,
 				D0C12FFE1A161FF5009E9B68 /* Needle.mp3 */,
@@ -374,6 +405,11 @@
 		D0C1304D1A162B33009E9B68 /* Ivo */ = {
 			isa = PBXGroup;
 			children = (
+				D03156BE1C9A014800B781B2 /* serieus.mp3 */,
+				D03156BF1C9A014800B781B2 /* daarbij laten.mp3 */,
+				D03156C01C9A014800B781B2 /* herhaling.mp3 */,
+				D03156C11C9A014800B781B2 /* een hek.mp3 */,
+				D03156C21C9A014800B781B2 /* totale onzin.mp3 */,
 				D0C1302E1A162B2E009E9B68 /* gat in de lucht.mp3 */,
 				D0C1301B1A162B2E009E9B68 /* beer op de weg.mp3 */,
 				D0C1301C1A162B2E009E9B68 /* mouw vastknopen.mp3 */,
@@ -489,6 +525,7 @@
 				8862F9611C66C0A8005F4585 /* John Bakker - HE!.mp3 in Resources */,
 				88B856291B681704006AC8BD /* 40degrees.mp3 in Resources */,
 				88B8562C1B681704006AC8BD /* donttouchmehe.mp3 in Resources */,
+				D03156BB1C99FD9700B781B2 /* Gefeliciteerd he.mp3 in Resources */,
 				8862F9871C66C58D005F4585 /* John Bakker - Moet nog vanalles doen vanmiddag.mp3 in Resources */,
 				8862F9791C66C527005F4585 /* John Bakker - Eh mogelijkheid niet uitgesloten.mp3 in Resources */,
 				D0C130481A162B2E009E9B68 /* geen vluggertje.mp3 in Resources */,
@@ -500,12 +537,16 @@
 				D0F2DC7617D860BF00BF9E92 /* icon.iconset in Resources */,
 				D0F2DC7E17D869A200BF9E92 /* statusbar_icon.png in Resources */,
 				8862F96B1C66C2F2005F4585 /* John Bakker - Man zit met hand in haar.mp3 in Resources */,
+				D03156CD1C9A052C00B781B2 /* denk het niet.m4a in Resources */,
 				D0C1300E1A161FF5009E9B68 /* Lachband.mp3 in Resources */,
 				D0C1303D1A162B2E009E9B68 /* wie ben ik.mp3 in Resources */,
 				D0C130521A162CF6009E9B68 /* zero tolerance.mp3 in Resources */,
+				D03156C31C9A014800B781B2 /* serieus.mp3 in Resources */,
 				88B8562B1B681704006AC8BD /* daarwordiknietvrolijkvan.mp3 in Resources */,
 				8862F9811C66C574005F4585 /* John Bakker - Ja sorry.mp3 in Resources */,
 				D0C130391A162B2E009E9B68 /* doosje plakken.mp3 in Resources */,
+				D03156D11C9A052C00B781B2 /* spannend muziekje.m4a in Resources */,
+				D03156C61C9A014800B781B2 /* een hek.mp3 in Resources */,
 				D0C1303F1A162B2E009E9B68 /* lamellen.mp3 in Resources */,
 				D0C130371A162B2E009E9B68 /* cyber.mp3 in Resources */,
 				D0C130121A161FF5009E9B68 /* Porno.mp3 in Resources */,
@@ -523,6 +564,7 @@
 				8862F9631C66C130005F4585 /* John Bakker - Herrie staat zo hard.mp3 in Resources */,
 				D0C130411A162B2E009E9B68 /* reactie.mp3 in Resources */,
 				D0D4944017DA5F7E00F84243 /* go.mp3 in Resources */,
+				D03156C41C9A014800B781B2 /* daarbij laten.mp3 in Resources */,
 				D0C1303C1A162B2E009E9B68 /* voetbal.mp3 in Resources */,
 				D0C130351A162B2E009E9B68 /* mouw vastknopen.mp3 in Resources */,
 				8862F96F1C66C394005F4585 /* John Bakker - Nee niet echt.mp3 in Resources */,
@@ -534,9 +576,13 @@
 				D0D4944217DA5F7E00F84243 /* maak hier uw keuze.mp3 in Resources */,
 				8862F97D1C66C551005F4585 /* John Bakker - Ja eigenlijk wel he.mp3 in Resources */,
 				8862F97B1C66C53B005F4585 /* John Bakker - Eh nee nee.mp3 in Resources */,
+				D03156CF1C9A052C00B781B2 /* lekker he.mp3 in Resources */,
 				D0C130141A161FF5009E9B68 /* Man man man.mp3 in Resources */,
+				D03156CE1C9A052C00B781B2 /* geintjenatuurlijk.mp3 in Resources */,
 				D0D4944317DA5F7E00F84243 /* mexicaans.mp3 in Resources */,
+				D03156C71C9A014800B781B2 /* totale onzin.mp3 in Resources */,
 				8862F9691C66C2B9005F4585 /* John Bakker - Ehh jaa.mp3 in Resources */,
+				D03156D01C9A052C00B781B2 /* raarrrr.mp3 in Resources */,
 				D0C130181A161FF5009E9B68 /* HIJ IES GEK!.mp3 in Resources */,
 				D0C1303E1A162B2E009E9B68 /* doe het niet.mp3 in Resources */,
 				8862F9751C66C469005F4585 /* John Bakker - Ja inderdaad.mp3 in Resources */,
@@ -551,6 +597,7 @@
 				D0D4944417DA5F7E00F84243 /* penningen.mp3 in Resources */,
 				D0D4944517DA5F7E00F84243 /* stoomboot.mp3 in Resources */,
 				D0C130341A162B2E009E9B68 /* beer op de weg.mp3 in Resources */,
+				D03156BD1C99FE1B00B781B2 /* Ik vind helemaal mooi!!.mp3 in Resources */,
 				D0D4944617DA5F7E00F84243 /* turbo.mp3 in Resources */,
 				88B8562A1B681704006AC8BD /* cliniclowns.mp3 in Resources */,
 				8862F96D1C66C364005F4585 /* John Bakker - Was er al bang voor.mp3 in Resources */,
@@ -559,6 +606,7 @@
 				8862F9671C66C232005F4585 /* John Bakker - Ja Goeie vraag eigenlijk.mp3 in Resources */,
 				D0D4944717DA5F7E00F84243 /* tuut tuut.mp3 in Resources */,
 				D0C130471A162B2E009E9B68 /* gat in de lucht.mp3 in Resources */,
+				D03156C51C9A014800B781B2 /* herhaling.mp3 in Resources */,
 				D0C130361A162B2E009E9B68 /* vliegen.mp3 in Resources */,
 				8862F97F1C66C569005F4585 /* John Bakker - Ja kan je wel stellen ja.mp3 in Resources */,
 				D0C1303B1A162B2E009E9B68 /* uit mijn hoofd.mp3 in Resources */,
