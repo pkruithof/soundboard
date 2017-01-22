@@ -35,6 +35,15 @@
 		88B8562D1B681704006AC8BD /* koekeratsja.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88B856261B681704006AC8BD /* koekeratsja.mp3 */; };
 		88B8562E1B681704006AC8BD /* speakyouenglish.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88B856271B681704006AC8BD /* speakyouenglish.mp3 */; };
 		88B8562F1B681704006AC8BD /* whyisheoutwhy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88B856281B681704006AC8BD /* whyisheoutwhy.mp3 */; };
+		88BCEEA21E34DB620056486D /* 67_hekkie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88BCEEA01E34DB620056486D /* 67_hekkie.mp3 */; };
+		88BCEEA31E34DB620056486D /* 69_rUstugh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88BCEEA11E34DB620056486D /* 69_rUstugh.mp3 */; };
+		88BCEEAB1E34DBBB0056486D /* Vieze tyfuslijeerr.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88BCEEA41E34DBBB0056486D /* Vieze tyfuslijeerr.mp3 */; };
+		88BCEEAC1E34DBBB0056486D /* Tyyffusshoerr.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88BCEEA51E34DBBB0056486D /* Tyyffusshoerr.mp3 */; };
+		88BCEEAD1E34DBBB0056486D /* Optieffuhh, gauw!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88BCEEA61E34DBBB0056486D /* Optieffuhh, gauw!.mp3 */; };
+		88BCEEAE1E34DBBB0056486D /* Je moet gewoon kijken, hoe de baas het doet hééé.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88BCEEA71E34DBBB0056486D /* Je moet gewoon kijken, hoe de baas het doet hééé.mp3 */; };
+		88BCEEAF1E34DBBB0056486D /* Iedereen moet betalen...iedereen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88BCEEA81E34DBBB0056486D /* Iedereen moet betalen...iedereen.mp3 */; };
+		88BCEEB01E34DBBB0056486D /* Dááágg.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88BCEEA91E34DBBB0056486D /* Dááágg.mp3 */; };
+		88BCEEB11E34DBBB0056486D /* 5 euro's.. Op je muil, gauw!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88BCEEAA1E34DBBB0056486D /* 5 euro's.. Op je muil, gauw!.mp3 */; };
 		D03156BB1C99FD9700B781B2 /* Gefeliciteerd he.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156BA1C99FD9700B781B2 /* Gefeliciteerd he.mp3 */; };
 		D03156BD1C99FE1B00B781B2 /* Ik vind helemaal mooi!!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156BC1C99FE1B00B781B2 /* Ik vind helemaal mooi!!.mp3 */; };
 		D03156C31C9A014800B781B2 /* serieus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D03156BE1C9A014800B781B2 /* serieus.mp3 */; };
@@ -142,6 +151,15 @@
 		88B856261B681704006AC8BD /* koekeratsja.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = koekeratsja.mp3; sourceTree = "<group>"; };
 		88B856271B681704006AC8BD /* speakyouenglish.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = speakyouenglish.mp3; sourceTree = "<group>"; };
 		88B856281B681704006AC8BD /* whyisheoutwhy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = whyisheoutwhy.mp3; sourceTree = "<group>"; };
+		88BCEEA01E34DB620056486D /* 67_hekkie.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 67_hekkie.mp3; sourceTree = "<group>"; };
+		88BCEEA11E34DB620056486D /* 69_rUstugh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 69_rUstugh.mp3; sourceTree = "<group>"; };
+		88BCEEA41E34DBBB0056486D /* Vieze tyfuslijeerr.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Vieze tyfuslijeerr.mp3"; sourceTree = "<group>"; };
+		88BCEEA51E34DBBB0056486D /* Tyyffusshoerr.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tyyffusshoerr.mp3; sourceTree = "<group>"; };
+		88BCEEA61E34DBBB0056486D /* Optieffuhh, gauw!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Optieffuhh, gauw!.mp3"; sourceTree = "<group>"; };
+		88BCEEA71E34DBBB0056486D /* Je moet gewoon kijken, hoe de baas het doet hééé.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Je moet gewoon kijken, hoe de baas het doet hééé.mp3"; sourceTree = "<group>"; };
+		88BCEEA81E34DBBB0056486D /* Iedereen moet betalen...iedereen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Iedereen moet betalen...iedereen.mp3"; sourceTree = "<group>"; };
+		88BCEEA91E34DBBB0056486D /* Dááágg.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dááágg.mp3"; sourceTree = "<group>"; };
+		88BCEEAA1E34DBBB0056486D /* 5 euro's.. Op je muil, gauw!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "5 euro's.. Op je muil, gauw!.mp3"; sourceTree = "<group>"; };
 		D03156BA1C99FD9700B781B2 /* Gefeliciteerd he.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Gefeliciteerd he.mp3"; sourceTree = "<group>"; };
 		D03156BC1C99FE1B00B781B2 /* Ik vind helemaal mooi!!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ik vind helemaal mooi!!.mp3"; sourceTree = "<group>"; };
 		D03156BE1C9A014800B781B2 /* serieus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = serieus.mp3; sourceTree = "<group>"; };
@@ -274,6 +292,20 @@
 			name = Rob;
 			sourceTree = "<group>";
 		};
+		88BCEE8B1E34D3180056486D /* Bob */ = {
+			isa = PBXGroup;
+			children = (
+				88BCEEA41E34DBBB0056486D /* Vieze tyfuslijeerr.mp3 */,
+				88BCEEA51E34DBBB0056486D /* Tyyffusshoerr.mp3 */,
+				88BCEEA61E34DBBB0056486D /* Optieffuhh, gauw!.mp3 */,
+				88BCEEA71E34DBBB0056486D /* Je moet gewoon kijken, hoe de baas het doet hééé.mp3 */,
+				88BCEEA81E34DBBB0056486D /* Iedereen moet betalen...iedereen.mp3 */,
+				88BCEEA91E34DBBB0056486D /* Dááágg.mp3 */,
+				88BCEEAA1E34DBBB0056486D /* 5 euro's.. Op je muil, gauw!.mp3 */,
+			);
+			name = Bob;
+			sourceTree = "<group>";
+		};
 		D0883DC217D7A57F00F613FA = {
 			isa = PBXGroup;
 			children = (
@@ -342,6 +374,7 @@
 		D0883E0617D7B62800F613FA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				88BCEE8B1E34D3180056486D /* Bob */,
 				8862F95F1C66BF02005F4585 /* John */,
 				88B856211B6814F0006AC8BD /* Rob */,
 				D0C1304E1A162CD3009E9B68 /* Unused */,
@@ -376,6 +409,8 @@
 		D0C1301A1A162B17009E9B68 /* Various */ = {
 			isa = PBXGroup;
 			children = (
+				88BCEEA01E34DB620056486D /* 67_hekkie.mp3 */,
+				88BCEEA11E34DB620056486D /* 69_rUstugh.mp3 */,
 				D03156C81C9A052C00B781B2 /* denk het niet.m4a */,
 				D03156C91C9A052C00B781B2 /* geintjenatuurlijk.mp3 */,
 				D03156CA1C9A052C00B781B2 /* lekker he.mp3 */,
@@ -522,6 +557,7 @@
 				D0C1300F1A161FF5009E9B68 /* Hey Peter.mp3 in Resources */,
 				D0883DE517D7A57F00F613FA /* MainMenu.xib in Resources */,
 				D0C1304B1A162B2E009E9B68 /* not amused.mp3 in Resources */,
+				88BCEEAE1E34DBBB0056486D /* Je moet gewoon kijken, hoe de baas het doet hééé.mp3 in Resources */,
 				8862F9611C66C0A8005F4585 /* John Bakker - HE!.mp3 in Resources */,
 				88B856291B681704006AC8BD /* 40degrees.mp3 in Resources */,
 				88B8562C1B681704006AC8BD /* donttouchmehe.mp3 in Resources */,
@@ -553,6 +589,8 @@
 				D0D4943D17DA5F7E00F84243 /* achteruit.mp3 in Resources */,
 				D0C130381A162B2E009E9B68 /* dat kan.mp3 in Resources */,
 				D0D4943E17DA5F7E00F84243 /* allernieuwstespel.mp3 in Resources */,
+				88BCEEAC1E34DBBB0056486D /* Tyyffusshoerr.mp3 in Resources */,
+				88BCEEB11E34DBBB0056486D /* 5 euro's.. Op je muil, gauw!.mp3 in Resources */,
 				D0C130431A162B2E009E9B68 /* antwoord ja.mp3 in Resources */,
 				D0D4943F17DA5F7E00F84243 /* attention.mp3 in Resources */,
 				8862F9831C66C57C005F4585 /* John Bakker - Ja zoiets maar dan nog erger.mp3 in Resources */,
@@ -576,6 +614,7 @@
 				D0D4944217DA5F7E00F84243 /* maak hier uw keuze.mp3 in Resources */,
 				8862F97D1C66C551005F4585 /* John Bakker - Ja eigenlijk wel he.mp3 in Resources */,
 				8862F97B1C66C53B005F4585 /* John Bakker - Eh nee nee.mp3 in Resources */,
+				88BCEEAF1E34DBBB0056486D /* Iedereen moet betalen...iedereen.mp3 in Resources */,
 				D03156CF1C9A052C00B781B2 /* lekker he.mp3 in Resources */,
 				D0C130141A161FF5009E9B68 /* Man man man.mp3 in Resources */,
 				D03156CE1C9A052C00B781B2 /* geintjenatuurlijk.mp3 in Resources */,
@@ -587,6 +626,7 @@
 				D0C1303E1A162B2E009E9B68 /* doe het niet.mp3 in Resources */,
 				8862F9751C66C469005F4585 /* John Bakker - Ja inderdaad.mp3 in Resources */,
 				D0C1304A1A162B2E009E9B68 /* indruk.mp3 in Resources */,
+				88BCEEAD1E34DBBB0056486D /* Optieffuhh, gauw!.mp3 in Resources */,
 				D0C130151A161FF5009E9B68 /* That's Another Cook.m4a in Resources */,
 				88B8562E1B681704006AC8BD /* speakyouenglish.mp3 in Resources */,
 				D0C130401A162B2E009E9B68 /* nutshell.mp3 in Resources */,
@@ -595,6 +635,8 @@
 				D0C130111A161FF5009E9B68 /* Ron Brandsteder lach.mp3 in Resources */,
 				D0C130541A162CF6009E9B68 /* vraag.mp3 in Resources */,
 				D0D4944417DA5F7E00F84243 /* penningen.mp3 in Resources */,
+				88BCEEA31E34DB620056486D /* 69_rUstugh.mp3 in Resources */,
+				88BCEEA21E34DB620056486D /* 67_hekkie.mp3 in Resources */,
 				D0D4944517DA5F7E00F84243 /* stoomboot.mp3 in Resources */,
 				D0C130341A162B2E009E9B68 /* beer op de weg.mp3 in Resources */,
 				D03156BD1C99FE1B00B781B2 /* Ik vind helemaal mooi!!.mp3 in Resources */,
@@ -603,8 +645,10 @@
 				8862F96D1C66C364005F4585 /* John Bakker - Was er al bang voor.mp3 in Resources */,
 				D0C130161A161FF5009E9B68 /* niet likken.mp3 in Resources */,
 				D0C130101A161FF5009E9B68 /* Doe eens normaal (Maroc).mp3 in Resources */,
+				88BCEEAB1E34DBBB0056486D /* Vieze tyfuslijeerr.mp3 in Resources */,
 				8862F9671C66C232005F4585 /* John Bakker - Ja Goeie vraag eigenlijk.mp3 in Resources */,
 				D0D4944717DA5F7E00F84243 /* tuut tuut.mp3 in Resources */,
+				88BCEEB01E34DBBB0056486D /* Dááágg.mp3 in Resources */,
 				D0C130471A162B2E009E9B68 /* gat in de lucht.mp3 in Resources */,
 				D03156C51C9A014800B781B2 /* herhaling.mp3 in Resources */,
 				D0C130361A162B2E009E9B68 /* vliegen.mp3 in Resources */,
