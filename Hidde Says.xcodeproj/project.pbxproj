@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		885074471E38C84C00754DB0 /* 60_pindakaas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 885074451E38C84C00754DB0 /* 60_pindakaas.mp3 */; };
+		885074481E38C84C00754DB0 /* Dramatic-chipmunk.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 885074461E38C84C00754DB0 /* Dramatic-chipmunk.mp3 */; };
 		8862F9611C66C0A8005F4585 /* John Bakker - HE!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8862F9601C66C0A8005F4585 /* John Bakker - HE!.mp3 */; };
 		8862F9631C66C130005F4585 /* John Bakker - Herrie staat zo hard.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8862F9621C66C130005F4585 /* John Bakker - Herrie staat zo hard.mp3 */; };
 		8862F9651C66C1D4005F4585 /* John Bakker - Hij doet het weer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8862F9641C66C1D4005F4585 /* John Bakker - Hij doet het weer.mp3 */; };
@@ -123,6 +125,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		885074451E38C84C00754DB0 /* 60_pindakaas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 60_pindakaas.mp3; sourceTree = "<group>"; };
+		885074461E38C84C00754DB0 /* Dramatic-chipmunk.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dramatic-chipmunk.mp3"; sourceTree = "<group>"; };
 		8862F9601C66C0A8005F4585 /* John Bakker - HE!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "John Bakker - HE!.mp3"; sourceTree = "<group>"; };
 		8862F9621C66C130005F4585 /* John Bakker - Herrie staat zo hard.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "John Bakker - Herrie staat zo hard.mp3"; sourceTree = "<group>"; };
 		8862F9641C66C1D4005F4585 /* John Bakker - Hij doet het weer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "John Bakker - Hij doet het weer.mp3"; sourceTree = "<group>"; };
@@ -409,6 +413,8 @@
 		D0C1301A1A162B17009E9B68 /* Various */ = {
 			isa = PBXGroup;
 			children = (
+				885074451E38C84C00754DB0 /* 60_pindakaas.mp3 */,
+				885074461E38C84C00754DB0 /* Dramatic-chipmunk.mp3 */,
 				88BCEEA01E34DB620056486D /* 67_hekkie.mp3 */,
 				88BCEEA11E34DB620056486D /* 69_rUstugh.mp3 */,
 				D03156C81C9A052C00B781B2 /* denk het niet.m4a */,
@@ -603,6 +609,7 @@
 				D0C130411A162B2E009E9B68 /* reactie.mp3 in Resources */,
 				D0D4944017DA5F7E00F84243 /* go.mp3 in Resources */,
 				D03156C41C9A014800B781B2 /* daarbij laten.mp3 in Resources */,
+				885074471E38C84C00754DB0 /* 60_pindakaas.mp3 in Resources */,
 				D0C1303C1A162B2E009E9B68 /* voetbal.mp3 in Resources */,
 				D0C130351A162B2E009E9B68 /* mouw vastknopen.mp3 in Resources */,
 				8862F96F1C66C394005F4585 /* John Bakker - Nee niet echt.mp3 in Resources */,
@@ -660,6 +667,7 @@
 				D0C1303A1A162B2E009E9B68 /* kan beter.mp3 in Resources */,
 				D0C130441A162B2E009E9B68 /* antwoord nee.mp3 in Resources */,
 				D0D1950B1A405D26008341B1 /* lekkergewerkt.mp3 in Resources */,
+				885074481E38C84C00754DB0 /* Dramatic-chipmunk.mp3 in Resources */,
 				D0D4944917DA5F7E00F84243 /* yiehoe.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
