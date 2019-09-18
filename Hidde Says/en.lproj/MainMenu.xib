@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="10116" systemVersion="15G31" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none">
     <dependencies>
         <deployment identifier="macosx"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="10116"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="14490.70"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <customObject id="-2" userLabel="File's Owner" customClass="NSApplication">
@@ -125,7 +126,16 @@
                 <textField verticalHuggingPriority="750" id="daH-uO-VSN">
                     <rect key="frame" x="204" y="841" width="107" height="17"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="center" title="Van alles" id="Rsd-Rx-JKC">
+                    <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="center" title="Van alles 2" id="Rsd-Rx-JKC">
+                        <font key="font" metaFont="system"/>
+                        <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <textField verticalHuggingPriority="750" id="Fpr-R2-nd8">
+                    <rect key="frame" x="44" y="220" width="107" height="17"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="center" title="Van alles 1" id="FtG-BV-DtO">
                         <font key="font" metaFont="system"/>
                         <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                         <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -735,8 +745,16 @@
                         <font key="font" metaFont="system"/>
                     </buttonCell>
                 </button>
+                <button verticalHuggingPriority="750" id="hSo-6W-ovk">
+                    <rect key="frame" x="14" y="178" width="166" height="32"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <buttonCell key="cell" type="push" title="Vaginale penetratie" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="vaginalepenetratie" inset="2" id="6z8-hq-Jg3">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
                 <button verticalHuggingPriority="750" id="D92-NY-mKx">
-                    <rect key="frame" x="176" y="112" width="166" height="32"/>
+                    <rect key="frame" x="14" y="145" width="166" height="32"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <buttonCell key="cell" type="push" title="Hekkie" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="67_hekkie" inset="2" id="dCN-NC-gun">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
@@ -744,7 +762,7 @@
                     </buttonCell>
                 </button>
                 <button verticalHuggingPriority="750" id="3Fn-AV-G3f">
-                    <rect key="frame" x="176" y="79" width="166" height="32"/>
+                    <rect key="frame" x="14" y="112" width="166" height="32"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <buttonCell key="cell" type="push" title="Rustaaagh" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="69_rUstugh" inset="2" id="fbh-CI-oaN">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
@@ -752,7 +770,7 @@
                     </buttonCell>
                 </button>
                 <button verticalHuggingPriority="750" id="vCm-0P-rvW">
-                    <rect key="frame" x="176" y="46" width="166" height="32"/>
+                    <rect key="frame" x="176" y="112" width="166" height="32"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <buttonCell key="cell" type="push" title="Pindakaas" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="60_pindakaas" inset="2" id="elK-UG-Dp8">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
@@ -760,7 +778,7 @@
                     </buttonCell>
                 </button>
                 <button verticalHuggingPriority="750" id="LH2-GO-Q6R">
-                    <rect key="frame" x="176" y="13" width="166" height="32"/>
+                    <rect key="frame" x="176" y="79" width="166" height="32"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <buttonCell key="cell" type="push" title="Drama" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" sound="Dramatic-chipmunk" inset="2" id="laW-0q-4IU">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
@@ -851,6 +869,7 @@
         <sound name="turbo"/>
         <sound name="tuut tuut"/>
         <sound name="uit mijn hoofd"/>
+        <sound name="vaginalepenetratie"/>
         <sound name="vliegen"/>
         <sound name="voetbal"/>
         <sound name="whyisheoutwhy"/>
